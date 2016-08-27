@@ -1,0 +1,35 @@
+{
+  "name": "wbp-bui",
+  "version": "0.0.0",
+  "description": "A wbp plugin used to build project, and supplement for 'wbp' plugin-ecosystem.",
+  "main": "dist/main.js",
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexWang1987/wbp-bui.git"
+  },
+  "keywords": [
+    "wbp-bui"
+  ],
+  "author": "AlexWang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlexWang1987/wbp-bui/issues"
+  },
+  "homepage": "https://github.com/AlexWang1987/wbp-bui#readme",
+  "dependencies": {},
+  "wbp": {
+    "project": "umd",
+    "entries": {
+      "main": "./main.js"
+    },
+    "source": "src/",
+    "build": "dist/"
+  }
+}
