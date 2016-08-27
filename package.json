@@ -1,8 +1,12 @@
 {
   "name": "wbp-bui",
+<<<<<<< HEAD
   "version": "0.0.2",
+=======
+  "version": "0.0.0",
+>>>>>>> parent of ac3a82c... local_dev_commit
   "description": "A wbp plugin used to build project, and supplement for 'wbp' plugin-ecosystem.",
-  "main": "src/main.js",
+  "main": "dist/main.js",
   "directories": {
     "doc": "docs",
     "test": "test"
@@ -23,9 +27,7 @@
     "url": "https://github.com/AlexWang1987/wbp-bui/issues"
   },
   "homepage": "https://github.com/AlexWang1987/wbp-bui#readme",
-  "dependencies": {
-    "promisify-fs": "^1.0.39"
-  },
+  "dependencies": {},
   "wbp": {
     "project": "umd",
     "entries": {
