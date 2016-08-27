@@ -1,10 +1,6 @@
 {
   "name": "wbp-bui",
-<<<<<<< HEAD
   "version": "0.0.2",
-=======
-  "version": "0.0.0",
->>>>>>> parent of ac3a82c... local_dev_commit
   "description": "A wbp plugin used to build project, and supplement for 'wbp' plugin-ecosystem.",
   "main": "dist/main.js",
   "directories": {
@@ -37,3 +33,4 @@
     "build": "dist/"
   }
 }
+
