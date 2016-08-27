@@ -1,6 +1,6 @@
 {
   "name": "wbp-bui",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A wbp plugin used to build project, and supplement for 'wbp' plugin-ecosystem.",
   "main": "src/main.js",
   "directories": {
