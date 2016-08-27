@@ -23,7 +23,9 @@
     "url": "https://github.com/AlexWang1987/wbp-bui/issues"
   },
   "homepage": "https://github.com/AlexWang1987/wbp-bui#readme",
-  "dependencies": {},
+  "dependencies": {
+    "promisify-fs": "^1.0.39"
+  },
   "wbp": {
     "project": "umd",
     "entries": {
